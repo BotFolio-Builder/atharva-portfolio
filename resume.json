@@ -1,0 +1,123 @@
+{
+  "about": {
+    "name": "Atharva",
+    "location": "San Francisco, CA",
+    "email": "alex.carter@example.com",
+    "phone": "+1-555-123-4567",
+    "linkedin_hyperlink": "https://linkedin.com/in/alexcarter",
+    "github_hyperlink": "https://github.com/alexcarter",
+    "summary": "Passionate software engineer with 3+ years of experience in building scalable web applications and backend systems."
+  },
+  "education": [
+    {
+      "university": "Stanford University",
+      "location": "Stanford, CA",
+      "degree": "Master of Science in Computer Science",
+      "period": "Sep 2020 - Jun 2022",
+      "related_coursework": [
+        "Machine Learning",
+        "Distributed Systems",
+        "Database Design"
+      ],
+      "gpa": "3.9"
+    },
+    {
+      "university": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "degree": "Bachelor of Science in Computer Engineering",
+      "period": "Aug 2016 - May 2020",
+      "related_coursework": [
+        "Data Structures",
+        "Operating Systems",
+        "Software Engineering"
+      ],
+      "gpa": "3.8"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "C++"
+      ]
+    },
+    {
+      "category": "Frameworks",
+      "skills": [
+        "FastAPI",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "category": "Cloud & Tools",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Git",
+        "Snowflake"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "TechNova Inc.",
+      "position": "Backend Developer",
+      "location": "Remote",
+      "period": "Jul 2022 - Present",
+      "responsibilities": [
+        "Developed RESTful APIs with FastAPI and integrated with PostgreSQL and Redis.",
+        "Implemented CI/CD pipelines using GitHub Actions and Docker.",
+        "Collaborated with frontend developers to deliver new features bi-weekly."
+      ]
+    },
+    {
+      "company": "CodeVerse",
+      "position": "Software Engineering Intern",
+      "location": "San Jose, CA",
+      "period": "May 2021 - Aug 2021",
+      "responsibilities": [
+        "Assisted in building a scalable data ingestion pipeline using Apache Kafka.",
+        "Wrote unit and integration tests to improve code coverage by 30%.",
+        "Presented bi-weekly updates to the engineering leadership team."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI-Powered Resume Parser",
+      "description": "Built a FastAPI-based application that parses and analyzes resumes using spaCy and OpenAI.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "spaCy",
+        "OpenAI"
+      ],
+      "url": "https://github.com/alexcarter/resume-parser"
+    },
+    {
+      "name": "Taskify",
+      "description": "A productivity app for task management with real-time collaboration features.",
+      "technologies": [
+        "React",
+        "Firebase",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/alexcarter/taskify"
+    }
+  ],
+  "accomplishments": [
+    {
+      "title": "Winner - Hack the Bay 2023",
+      "date": "Mar 2023",
+      "link": "https://devpost.com/software/ai-nurse"
+    },
+    {
+      "title": "AWS Certified Developer \u2013 Associate",
+      "date": "Oct 2022",
+      "link": "https://aws.amazon.com/certification/certified-developer-associate/"
+    }
+  ]
+}
